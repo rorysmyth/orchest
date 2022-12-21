@@ -1,5 +1,5 @@
 {
-    "name": "california-housing",
+    "name": "my-new-job",
     "parameters": {},
     "settings": {
         "auto_eviction": false,
@@ -45,7 +45,7 @@
                 ]
             },
             "parameters": {},
-            "title": "Get data",
+            "title": "Ingest",
             "uuid": "106bb318-252d-4f94-ba86-c36722dddf41"
         },
         "74c4c63c-0e37-4b06-90f8-88f22c1e1b3d": {
